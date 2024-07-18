@@ -1,0 +1,5 @@
+cara penggunaan
+
+composer install / update
+jalankan migrate dan seeder atau import db
+akses login ada di seeder
